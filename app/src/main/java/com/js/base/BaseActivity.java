@@ -1,4 +1,4 @@
-package com.datdb.base;
+package com.js.base;
 
 import android.os.Bundle;
 import android.view.View;
